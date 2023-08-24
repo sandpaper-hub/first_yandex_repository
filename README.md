@@ -1,6 +1,9 @@
 # Тестовый репозиторий для практики с Pull Request в GitHub
 
-Этот репозиторий - Constantin Kim
+Этот репозиторий - Constantine Kim
+
+Пробный commit/push/pull request
+
 
 ## Как этим пользоваться?
 
