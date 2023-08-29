@@ -2,7 +2,7 @@
 
 Этот репозиторий - Constantine Kim
 
-Пробный commit/push/pull request 
+
 
 ## Как этим пользоваться?
 
